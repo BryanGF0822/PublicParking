@@ -30,8 +30,8 @@ public class Parqueadero {
 	
 	public void marcarHoraFinal() {
 		// To modify:
-		horaInicio   = 12;
-		minutoInicio = 0;
+		horaFinal   = 12;
+		minutoFinal = 0;
 	}
 	
 	public String darHoraFinal() {
